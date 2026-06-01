@@ -1,6 +1,6 @@
 # Tuple in Python: Check Element Existence
 
-## 🎯 Aimhttps://github.com/Mithun-Sai/Module-3/edit/main/Tuple%3A%20Check%20Element%20Existence.md
+## 🎯 Aim
 To write a Python program that checks if the element `'n'` and the element `8` exist within a given tuple.
 
 ## 🧠 Algorithm
